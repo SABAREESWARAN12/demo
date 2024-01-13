@@ -1,2 +1,3 @@
-com/example/demo/DemoApplication.class
-com/example/demo/DemoController/DemoController.class
+com/example/application/DemoApplication.class
+com/example/application/DemoController/DemoController.class
+com/example/application/DemoService/DemoService.class
